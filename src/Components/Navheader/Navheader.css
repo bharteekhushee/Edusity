@@ -48,7 +48,7 @@
 
 /* max-width 1050px */
 /* max-width 850px */
-@media (max-width:850px) {
+@media (max-width:850px){
     .Navheader .container .logo img{
         width: 140px;
     }
@@ -75,7 +75,7 @@
     }
 
     .Navheader .container ul li {
-        padding: 10px 8px;
+        padding: 10px 8px !important;
     }
 
     .Navheader .container .hide-mobile-menu {
